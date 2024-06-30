@@ -1,5 +1,5 @@
-<h1 align="center">Hola👋compañeros Programadores✨ </h1> 
-  
+<h1 align="center">Hola👋 soy Yamir✨ </h1> 
+
 <a href="https://www.linkedin.com/in/yamir-eduardo-huamani-cueva-87a362257/https://linkedin.com/in/unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 <br>
@@ -23,12 +23,8 @@
     <img src="https://skillicons.dev/icons?i=php,laravel,py,anaconda,sklearn,django,flask,mysql,sqlite,postgres,css,tailwind,html,js,git,github,postman,eclipse,vscode,windows,linux,ubuntu,aws,azure,&perline=12" />
   </a>
 </p>
-
-
 <br>
 <!-------------------------->
-
-
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
